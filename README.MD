@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/557291718.svg)](https://zenodo.org/badge/latestdoi/557291718)
+
 ## Supplementary Material for 
 Evaluation and Bias Correction of Probabilistic Volcanic Ash Forecasts
 by Alice Crawford, Tianfeng Chai, Binyu Wang, Allison Ring1, Barbara Stunder, Christopher Loughner, Michael Pavolonis, and Justin Sieglaff
