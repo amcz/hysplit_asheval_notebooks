@@ -4,7 +4,7 @@
 Evaluation and Bias Correction of Probabilistic Volcanic Ash Forecasts
 by Alice Crawford, Tianfeng Chai, Binyu Wang, Allison Ring1, Barbara Stunder, Christopher Loughner, Michael Pavolonis, and Justin Sieglaff
 
-MOEW
+https://acp.copernicus.org/articles/22/13967/2022/
 
 ### Dependencies
 
